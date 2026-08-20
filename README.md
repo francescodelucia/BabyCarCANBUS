@@ -1,3 +1,34 @@
+<p align="center">
+  <!-- LOGO DEL PROGETTO (LATO SINISTRO) -->
+  <img src="https://raw.githubusercontent.com/francescodelucia/BabyCarCANBUS/main/assets/logo.png" alt="BabyCar CANBUS Logo" width="130" align="left"/>
+
+  <!-- PARTNER & SPONSOR (LATO DESTRO) -->
+  <a href="https://makerfairerome.eu">
+    <img src="https://raw.githubusercontent.com/francescodelucia/BabyCarCANBUS/main/assets/maker_faire_logo.png" alt="Maker Faire Rome 2026" height="42" align="right"/>
+  </a>
+  <a href="https://jlcpcb.com">
+    <img src="https://raw.githubusercontent.com/francescodelucia/BabyCarCANBUS/main/assets/jlcpcb_logo.png" alt="JLCPCB Logo" height="42" align="right"/>
+  </a>
+</p>
+
+<!-- TITOLO E TITOLETTI AL CENTRO -->
+# &nbsp; BabyCar CANBUS
+### &nbsp; Automotive CAN-bus Architecture, ADAS & Torque Vectoring for Toys
+
+<!-- BADGE DINAMICI ACCATTIVANTI -->
+<p align="left">
+  <a href="#-italiano"><img src="https://img.shields.io/badge/Lingua-Italiano-blue?style=for-the-badge&logo=google-translate" alt="Italiano"></a>
+  <a href="#-english"><img src="https://img.shields.io/badge/Language-English-green?style=for-the-badge&logo=google-translate" alt="English"></a>
+  <a href="https://github.com/francescodelucia/BabyCarCANBUS"><img src="https://img.shields.io/badge/STEM-Father_%26_Son-ff69b4?style=for-the-badge&logo=heart" alt="STEM Project"></a>
+  <a href="https://jlcpcb.com"><img src="https://img.shields.io/badge/Sponsored_by-JLCPCB-0072c6?style=for-the-badge&logo=circuit-board" alt="JLCPCB"></a>
+  <a href="https://makerfairerome.eu"><img src="https://img.shields.io/badge/Selected_for-Maker_Faire_Rome_2026-red?style=for-the-badge" alt="Maker Faire Rome"></a>
+</p>
+
+<br clear="all">
+
+---
+
+<a name="-italiano"></a>
 # 🏎️ BabyCar CANBUS: L'Evoluzione Automotive e ADAS nei Giocattoli
 
 Cosa succede se unisci l'elettronica di un'auto vera a un progetto STEM di famiglia? Nasce **BabyCar CANBUS**: una macchinina elettrica riprogettata da zero con rete CAN-bus, sistemi ADAS avanzati ed ecosistema ESP32, realizzata insieme a un giovane maker di 12 anni.
@@ -49,10 +80,12 @@ Il cuore di BabyCar CANBUS è la suddivisione dei compiti tra diverse centraline
 | **Input Guida** | Acceleratore Elettronico | Erogazione progressiva e parzializzata della potenza |
 | **Sicurezza Batteria** | Telemetria Real-Time | Monitoraggio costante di tensione, corrente e temperatura |
 
-------
-------
+---
 
-### 🏎️ BabyCar CANBUS: Bringing Automotive ADAS and Evolution to Toys
+<br>
+
+<a name="-english"></a>
+# 🏎️ BabyCar CANBUS: Bringing Automotive ADAS and Evolution to Toys
 
 What happens when you combine real-world automotive electronics with a family STEM project? **BabyCar CANBUS** is born: an electric toy car re-engineered from scratch using a CAN-bus network, advanced ADAS features, and the ESP32 ecosystem, co-developed alongside a talented 12-year-old maker.
 
@@ -102,5 +135,3 @@ The core of BabyCar CANBUS lies in distributing specific tasks across different 
 | **Dynamics Controller** | ESP32-C3 + Dual PWM | Rear Torque Vectoring and Steering Assist |
 | **Driving Input** | Electronic Throttle | Linear and progressive power delivery |
 | **Battery Safety** | Real-Time Telemetry | Constant tracking of voltage, current, and thermals |
-
-
