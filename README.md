@@ -5,10 +5,7 @@
   <!-- PARTNER & SPONSOR (LATO DESTRO) -->
   <a href="https://makerfairerome.eu">
     <img src="https://raw.githubusercontent.com/francescodelucia/BabyCarCANBUS/main/assets/maker_faire_logo.png" alt="Maker Faire Rome 2026" height="42" align="right"/>
-  </a>
-  <a href="https://jlcpcb.com">
-    <img src="https://raw.githubusercontent.com/francescodelucia/BabyCarCANBUS/main/assets/jlcpcb_logo.png" alt="JLCPCB Logo" height="42" align="right"/>
-  </a>
+  </a>  
 </p>
 
 <!-- TITOLO E TITOLETTI AL CENTRO -->
@@ -19,8 +16,7 @@
 <p align="left">
   <a href="#-italiano"><img src="https://img.shields.io/badge/Lingua-Italiano-blue?style=for-the-badge&logo=google-translate" alt="Italiano"></a>
   <a href="#-english"><img src="https://img.shields.io/badge/Language-English-green?style=for-the-badge&logo=google-translate" alt="English"></a>
-  <a href="https://github.com/francescodelucia/BabyCarCANBUS"><img src="https://img.shields.io/badge/STEM-Father_%26_Son-ff69b4?style=for-the-badge&logo=heart" alt="STEM Project"></a>
-  <a href="https://jlcpcb.com"><img src="https://img.shields.io/badge/Sponsored_by-JLCPCB-0072c6?style=for-the-badge&logo=circuit-board" alt="JLCPCB"></a>
+  <a href="https://github.com/francescodelucia/BabyCarCANBUS"><img src="https://img.shields.io/badge/STEM-Father_%26_Son-ff69b4?style=for-the-badge&logo=heart" alt="STEM Project"></a>  
   <a href="https://makerfairerome.eu"><img src="https://img.shields.io/badge/Selected_for-Maker_Faire_Rome_2026-red?style=for-the-badge" alt="Maker Faire Rome"></a>
 </p>
 
